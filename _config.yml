@@ -57,12 +57,6 @@ descriptions:
   - cat: algorithm
     desc: "알고리즘 관련 카테고리 입니다."
 
-  - cat: cSharp
-    desc: "C# 관련 카테고리 입니다."
-
-  - cat: java
-    desc: "JAVA 관련 카테고리 입니다."
-
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
