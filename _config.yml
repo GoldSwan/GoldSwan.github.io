@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/logo.jpg"
 
 # Build settings
 markdown: kramdown
@@ -57,7 +57,7 @@ descriptions:
   - cat: Algorithm
     desc: "알고리즘 관련 카테고리 입니다."
 
-  - cat: C#
+  - cat: CSharp
     desc: "C# 관련 카테고리 입니다."
 
   - cat: JAVA
